@@ -1,0 +1,72 @@
+.header-img {
+  height: 150px;
+
+  width: 150px;
+}
+
+.header-div-img {
+  background-color: rgba(230, 230, 230, 1);
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  background-color: rgba(196, 196, 196, 1);
+  color: rgba(0, 86, 119, 1);
+  font-family: "Times New Roman", Times, serif;
+}
+
+.titulo-CV {
+  background-color: rgba(196, 196, 196, 1);
+  color: rgba(0, 86, 119, 1);
+  font-family: "Times New Roman", Times, serif;
+  font-feature-settings: "cpsp" on;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: 60px;
+
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 100px;
+}
+
+.titulo-h2 {
+  background-color: rgba(196, 196, 196, 1);
+  color: rgba(0, 86, 119, 1);
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+  margin-left: 23px;
+}
+
+li {
+  line-height: 25px;
+}
+
+.listaSinPuntos {
+  list-style: none;
+}
+
+span {
+  font-weight: bold;
+}
+
+article {
+  display: flex;
+  line-height: 20px;
+}
+
+footer {
+  align-items: center;
+  background-color: rgba(0, 86, 119, 1);
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+#footer-h2 {
+  color: white;
+}
